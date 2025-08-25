@@ -4,7 +4,6 @@
 
 A modern **cryptocurrency tracking web app** built with **React.js, Material UI, and Chart.js**, providing **real-time crypto prices, interactive charts, and detailed market insights**.
 
-![Crypto Tracker Banner](public/banner2.jpg)
 
 ---
 
@@ -43,11 +42,7 @@ This project is perfect for **crypto enthusiasts, learners, and traders** who wa
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page  
-![Home](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)  
-
+ 
 ### 📊 Coin Details  
 *(Add screenshot of coin page here if available)*  
 
